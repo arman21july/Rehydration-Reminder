@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi-v11_ic_drink_notification.png.flat",
+        "source": "com.example.android.background.app-main-21:/drawable-xxhdpi-v11/ic_drink_notification.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi-v11_ic_drink_notification.png.flat",
+        "source": "com.example.android.background.app-main-21:/drawable-mdpi-v11/ic_drink_notification.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_local_drink_black_24px.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_local_drink_black_24px.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi-v11_ic_drink_notification.png.flat",
+        "source": "com.example.android.background.app-main-21:/drawable-hdpi-v11/ic_drink_notification.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_cancel_black_24px.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_cancel_black_24px.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.example.android.background.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_local_drink_grey_120px.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_local_drink_grey_120px.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxhdpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxhdpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_power_pink_80px.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_power_pink_80px.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_power_grey_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_power_grey_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi-v11_ic_drink_notification.png.flat",
+        "source": "com.example.android.background.app-main-21:/drawable-xhdpi-v11/ic_drink_notification.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-hdpi_ic_cancel_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-hdpi/ic_cancel_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-ldpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-ldpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_local_drink_grey_120px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_local_drink_grey_120px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v21_ic_power_grey_80px.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v21/ic_power_grey_80px.xml"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.background.app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-mdpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-mdpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_local_drink_black_24px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_local_drink_black_24px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-xxxhdpi_ic_power_pink_80px.png.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-xxxhdpi/ic_power_pink_80px.png"
+    },
+    {
+        "merged": "com.example.android.background.app-merged_res-19:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android.background.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]
